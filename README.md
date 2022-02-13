@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SullyH06 (Sulayman Hussein
+- 👋 Hi, I’m @SullyH06 (Sulayman Hussein)
 - 👀 I’m interested in Web/Mobile development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on an app
